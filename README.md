@@ -1,7 +1,7 @@
 
 The version of this article:
 
-Rus: [README.RU](README.RU)
+Rus: [READMERU](READMERU)
 
 # Generate QR-code
 
