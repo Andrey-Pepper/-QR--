@@ -22,7 +22,7 @@ This application, named QR Code Generator, is built using C# Winforms. It allows
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/your-username/QRCodeGenerator.git
+    git clone https://github.com/your-username/Generate-QR-code.git
     cd QRCodeGenerator
     ```
 2. Open the solution file in Visual Studio.
