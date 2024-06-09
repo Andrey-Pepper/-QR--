@@ -1,3 +1,8 @@
+
+The version of this article:
+
+Rus: [README.RU](README.RU)
+
 # Generate QR-code
 
 This application, named QR Code Generator, is built using C# Winforms. It allows users to generate QR codes based on the text input provided. The program includes a text input field and two buttons: Generate and Save the generated QR code.
