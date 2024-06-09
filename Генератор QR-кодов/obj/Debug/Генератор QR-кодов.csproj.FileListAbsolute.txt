@@ -1,0 +1,42 @@
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Генератор QR-кодов.exe.config
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Генератор QR-кодов.exe
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Генератор QR-кодов.pdb
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Bing.QRCode.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Bing.QRCode.ZXing.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SixLabors.Fonts.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SourceLink.Environment.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Buffers.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Memory.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\zxing.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\ZXing.ImageSharp.V2.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\zxing.presentation.dll
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Bing.QRCode.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Bing.QRCode.ZXing.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SixLabors.Fonts.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\SourceLink.Environment.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Buffers.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Memory.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\zxing.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\ZXing.ImageSharp.V2.pdb
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\ZXing.ImageSharp.V2.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\bin\Debug\zxing.presentation.xml
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор QR-кодов.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор_QR_кодов.Form1.resources
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор_QR_кодов.Properties.Resources.resources
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор QR-кодов.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор QR-кодов.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\________.6E72D69B.Up2Date
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор QR-кодов.exe
+C:\Users\aaa\source\repos\Генератор QR-кодов\Генератор QR-кодов\obj\Debug\Генератор QR-кодов.pdb
